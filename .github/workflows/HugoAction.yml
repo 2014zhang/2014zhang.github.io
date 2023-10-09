@@ -23,6 +23,8 @@ jobs:
       - name: Build Site
         run: |
           pwd
+          ls
+          ls ..
           hugo --baseURL https://2014zhang.github.io
           
       - name: Deploy Pages
