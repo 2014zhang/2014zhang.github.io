@@ -7,6 +7,11 @@
       logo: ""
       url: https://2014zhang.github.io/Butterfly
       description: Hexo驱动的Butterfly主题的博客网站
+    - title: Next主题博客
+      logo: ""
+      url: https://2014zhang.github.io/Next
+      description: Hexo驱动的Next主题的博客网站
+  
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
